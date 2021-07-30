@@ -1,7 +1,7 @@
 # QXS-SAROPT
 QXS-SAROPT Dataset
 
-![Image text](https://github.com/yaoxu008/QXS-SAROPT/blob/main/QXSLAB-SAROPT.png)
+![Image text](https://github.com/yaoxu008/QXS-SAROPT/blob/main/QXS-SAROPT.png)
 
 
 [Links to download the data](https://www.wenjuan.com/s/UZBZJv5GwL/)
